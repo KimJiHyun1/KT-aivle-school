@@ -15,7 +15,7 @@
 ### day 2 
   * 네이버 API (네이버 검색어 트렌드 수집)  
   * 직방 원룸 매물 정보 수집 (geohash2)
-  * html, css-selector
+  * html, css-selector // 나중에 text로 정리...
   * 네이버 연관 검색어 (BeautifulSoup)
   * 지마켓 best 상품 200개 수집  
   
