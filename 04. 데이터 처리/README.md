@@ -16,7 +16,7 @@
   * Feature Engineering : 기존 컬럼으로 분석에 필요한 새로운 컬럼 도출  
   * 결측값 처리 : isnull(), dropna(), fillna(), .interpolate()  
   * Dummy Variable (가변수화) : 범주형 데이터 > 0, 1 : pd.get_dummies()  
-  * Scailing : MinMaxScaler, StandardScaler <br/><br/><br/>
+  * Scale : MinMaxScaler, StandardScaler <br/><br/><br/>
 
 
 ## 요약  
